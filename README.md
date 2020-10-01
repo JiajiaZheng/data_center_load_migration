@@ -1,6 +1,8 @@
 # data_center_load_migration
 
-CODES
+Please cite this article as: Zheng et al., Mitigating Curtailment and Carbon Emissions through Load Migration between Data Centers, Joule (2020), https://doi.org/10.1016/j.joule.2020.08.001
+
+# Codes
 
 1. CAISO generation scraping 
 Collect the hourly electricity generation by energy source in 2015-2019 data from CAISO website 
@@ -21,7 +23,7 @@ Generate the energy consumption profile of the typical data center before and af
 Generate the contour plots of GHG emissions reduction and net abatement cost in 2019 (Fig. 4)
 
 
-DATA
+# Data
 
 1. Hourly_Generation_CAISO_2015-2019
 Hourly generation data of CAISO by energy source, 2015-2019
@@ -48,6 +50,6 @@ Analysis to generate results
 Typical data center energy consumption profile for a week (Rahmani 2017).
 
 
-FIGURES
+# Figures
 
   Figure 1-4.
