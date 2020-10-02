@@ -1,6 +1,6 @@
 # data_center_load_migration
 
-Please cite this article as: Zheng et al., Mitigating Curtailment and Carbon Emissions through Load Migration between Data Centers, Joule (2020), https://doi.org/10.1016/j.joule.2020.08.001
+This project explores the role of workloads migration between data centers in reducing renewable energy curtailment and greenhouse gas emissions. You can also download the dataset from http://dx.doi.org/10.17632/wngs282m48.1. If you use this dataset, please cite the article: Zheng et al., Mitigating Curtailment and Carbon Emissions through Load Migration between Data Centers, Joule (2020), https://doi.org/10.1016/j.joule.2020.08.001
 
 # Codes
 
